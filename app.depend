@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1669995071 source:c:\users\asus\desktop\app\main.c
+	"prototype.h"
+
+1669990536 c:\users\asus\desktop\app\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1669995588 source:c:\users\asus\desktop\app\function.c
+	"prototype.h"
+
+1670080161 source:c:\users\asus\documents\github\uni-work\semester 1 coding\machine projects (still not done)\function.c
+	"prototype.h"
+
+1670080484 c:\users\asus\documents\github\uni-work\semester 1 coding\machine projects (still not done)\prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1670080435 source:c:\users\asus\documents\github\uni-work\semester 1 coding\machine projects (still not done)\main.c
+	"prototype.h"
+
